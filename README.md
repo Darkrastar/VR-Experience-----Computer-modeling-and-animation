@@ -16,8 +16,12 @@ The experience tells the story of three boys, who are going to visit the aunt of
 
 # Versions
 ```
+Software
 Maya--------------------Version 2019.3
 Adobe Premiere Pro CC---Version 2019
+
+Library
+ArnoldGPU--------Version 5.3
 ```
 
 # Concept video
